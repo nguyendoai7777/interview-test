@@ -1,0 +1,6 @@
+:root {
+	--border-base-color: #333;
+	--error-color: #f00;
+  --bottom-action-height: 64px;
+  --maxwidth-layout: 600px;
+}

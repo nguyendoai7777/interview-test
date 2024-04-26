@@ -1,0 +1,12 @@
+.action {
+	position: fixed;
+	bottom: 0;
+	background-color: #e0fbff;
+	width: 100%;
+  .box {
+    display: flex;
+    height: var(--bottom-action-height);
+    align-items: center;
+    padding-inline: 16px;
+  }
+}
